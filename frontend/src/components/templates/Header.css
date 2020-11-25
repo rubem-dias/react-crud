@@ -1,0 +1,14 @@
+/* tag header com a classe header e assim sucessivamente*/
+
+header.header {
+    background-color: white;
+    padding: 0px 15px 0px 15px;
+    overflow: hidden;
+    white-space: nowrap;
+    box-shadow: var(--shadow);
+}
+
+header.header h1 {
+    font-size: 1.6em;
+    font-weight: 1000;
+}
